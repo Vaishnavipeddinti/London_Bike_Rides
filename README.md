@@ -6,8 +6,11 @@ I recently worked on a data analysis project to explore bike usage trends in Lon
 
 Key Highlights:
 1️⃣ Total Rides: Over 1.55 million bike rides were recorded between January 4, 2015, and March 20, 2015.
+
 2️⃣ 10-Day Moving Average: A time-series analysis revealed significant fluctuations in bike usage, highlighting seasonal and weather-driven trends.
+
 3️⃣ Weather Impact (Heatmap): A detailed heatmap showed the relationship between temperature and wind speed, revealing that moderate temperatures (5–15°C) and low wind speeds (0–20 kph) saw the highest bike usage. Extreme weather conditions had a noticeable impact on ridership.
+
 
 Tools & Skills:
 🔹 Python (Jupyter): Data cleaning, aggregation, and generating insights like moving averages.
